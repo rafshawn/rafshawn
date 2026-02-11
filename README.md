@@ -1,28 +1,12 @@
 
-<img align="left" width="85" height="85" src="earthworm_jim.gif">
-<br>
-[My website](https://shawn.tf/) • [Linkedin](https://linkedin.com/shawn-adrian/)
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=400&width=2400&bannerText=Hi%2C+my+name+is+Shawn+%F0%96%A8%86&color=%232560aa&backgroundColor=%23062562&geoSeed=8XWCkdCA8Y&waveComplexity=2&waveAmount=5&waveHeight=60" />
 
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=400&width=2400&bannerText=hi%2C+my+name+is+shawn+%F0%96%A8%86&color=%232560aa&backgroundColor=%23062562&geoSeed=8XWCkdCA8Y&waveComplexity=2&waveAmount=5&waveHeight=60" />
+## About Me
+<img align="left" width="100" height="100" src="earthworm_jim.gif">
 
-<table width="100%" style="border-collapse: collapse; margin: 0;">
-  <tr>
-    <td align="left" width="100">
-      <img src="rayman.gif" style="width: auto; height: 85px;" />
-    </td>
-    <td align="center" width="*">
-      <p align="center">
-        <a href="https://examplee.com">Personal 1</a> •
-        <a href="https://examplee.com">Website 2</a> •
-        <a href="https://www.linkedin.com/in/shawn-adrian/">LinkedIn</a> •
-        <a href="https://examplee.com">Website 3</a>
-      </p>
-    </td>
-    <td align="right" width="100">
-      <img src="earthworm_jim.gif" style="width: auto; height: 85px;" />
-    </td>
-  </tr>
-</table>
+<br><br> [<img src="https://badges.ws/badge/My_Website-orange">](https://shawn.tf/) [<img src="https://badges.ws/badge/Linkedin-cyan">](https://linkedin.com/shawn-adrian/)
+
+<br>I am a Computer Engineering graduate with Software Development experience. I love building and fixing electronics, and I make games as a side-hobby.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafshawn/rafshawn/blob/output/github-contribution-grid-snake.svg" />
