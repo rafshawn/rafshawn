@@ -2,7 +2,7 @@
 <img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?height=400&width=2400&bannerText=Hi%2C+my+name+is+Shawn+%F0%96%A8%86&color=%232560aa&backgroundColor=%23062562&geoSeed=8XWCkdCA8Y&waveComplexity=2&waveAmount=5&waveHeight=60" />
 
 ## About Me
-<img align="left" width="100" height="100" src="earthworm_jim.gif">
+<img align="left" width="85" src="rayman.gif">
 
 <br><br> [<img src="https://badges.ws/badge/My_Website-orange">](https://shawn.tf/) [<img src="https://badges.ws/badge/Linkedin-cyan">](https://linkedin.com/shawn-adrian/)
 
