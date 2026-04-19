@@ -4,7 +4,7 @@
 ## About Me
 <img align="left" width="85" src="gifs/earthworm_jim.gif">
 
-<br><br> [<img src="https://badges.ws/badge/My_Website-orange">](https://shawn.tf/) [<img src="https://badges.ws/badge/Linkedin-cyan">](https://linkedin.com/shawn-adrian/)
+<br><br> [<img src="https://badges.ws/badge/My_Website-orange">](https://shawn.onl/) [<img src="https://badges.ws/badge/Linkedin-cyan">](https://linkedin.com/in/shawn-adrian/)
 
 <br>I am a Computer Engineering graduate with Software Development experience. I love building and fixing electronics, and I make games as a side-hobby.
 
